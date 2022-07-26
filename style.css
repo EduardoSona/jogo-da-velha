@@ -1,0 +1,65 @@
+body {
+            
+    font: normal 25px Arial;
+    color: rgb(0, 123, 139);
+    background: black;
+}
+h1 {
+    text-align: center
+}
+div {
+    text-align: center;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+section {
+    background: rgb(97, 86, 86);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 123, 139, 0.556);
+}
+input{   
+    font: normal 20pt Arial;
+    background: rgb(66, 197, 181);           
+    width: 100px;
+    height: 100px;            
+    
+    margin-block-end:5px;  
+    text-align: center;                  
+}
+input#a11 {    
+    text-align: center;
+}
+input#a12 {    
+    text-align: center;
+}
+input#a13 {   
+    text-align: center;
+}
+
+
+input#a21 {
+    text-align: center;
+}
+input#a22 {
+    text-align: center;
+}
+input#a23 {
+    text-align: center;
+}
+
+
+input#a31 {
+    text-align: center;
+}
+input#a32 {
+    text-align: center;
+}
+input#a33 {
+    text-align: center;
+}
